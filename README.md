@@ -1,6 +1,6 @@
 # aplikasi_uas
 
-A new Flutter project.
+Project ini merupakan project sederhana untuk memenuhi tugas uas.
 
 ## Getting Started
 
