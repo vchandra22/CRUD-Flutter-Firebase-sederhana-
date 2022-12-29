@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317904934595",
+    "project_id": "aplikasi-uas-4e72b",
+    "storage_bucket": "aplikasi-uas-4e72b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317904934595:android:afdb132a2aed526a4db476",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317904934595-qotckkvliqamh4igtkonkr5f8ds1uomk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPfs9dRnsr1ByVuJdMRcd0eNZQltQT40s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317904934595-qotckkvliqamh4igtkonkr5f8ds1uomk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
